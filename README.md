@@ -48,4 +48,34 @@ Medicare is a medical application which offers complete set of medical operation
 
 * Draw.io
 
+## UML 
+
+![alt text](https://github.com/kishanpatel-hub/Medicare/blob/d7afed93230e966257bc9bc1dc25197a5091de5a/images/UML.png) 
+
+## ETL
+
+![alt text](https://github.com/kishanpatel-hub/Medicare/blob/d7afed93230e966257bc9bc1dc25197a5091de5a/images/ETL.PNG) 
+
+## Analysis
+
+* Allergy Stats
+
+![alt text](https://github.com/kishanpatel-hub/Medicare/blob/d7afed93230e966257bc9bc1dc25197a5091de5a/images/chart2.png) 
+
+* Major Diseases Stats
+
+![alt text](https://github.com/kishanpatel-hub/Medicare/blob/d7afed93230e966257bc9bc1dc25197a5091de5a/images/chart3.png) 
+
+* Injuries Stats
+
+![alt text](https://github.com/kishanpatel-hub/Medicare/blob/d7afed93230e966257bc9bc1dc25197a5091de5a/images/chart4.png) 
+
+* Average Age of Doctors for each speciality
+
+![alt text](https://github.com/kishanpatel-hub/Medicare/blob/d7afed93230e966257bc9bc1dc25197a5091de5a/images/chart5.png) 
+
+* Average Rating of Doctors for each speciality 
+
+![alt text](https://github.com/kishanpatel-hub/Medicare/blob/d7afed93230e966257bc9bc1dc25197a5091de5a/images/chart6.png) 
+
 
