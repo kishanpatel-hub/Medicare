@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\Study\Masters\Northeastern\DBMS\Project\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2305597456.index
+1712921344.index
+3180494795.index
+3918968705.index
+388375679.index
+846211332.index
+1583955355.index

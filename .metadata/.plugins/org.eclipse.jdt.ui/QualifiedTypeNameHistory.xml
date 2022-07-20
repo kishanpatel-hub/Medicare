@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="Medicare.model.gender"/>
+    <fullyQualifiedTypeName name="Medicare.dal.AppointmentDao"/>
+    <fullyQualifiedTypeName name="Medicare.model.Appointments"/>
+    <fullyQualifiedTypeName name="Medicare.dal.AccountsDao"/>
+    <fullyQualifiedTypeName name="Medicare.model.Accounts"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="Medicare.model.Reviews"/>
+    <fullyQualifiedTypeName name="Medicare.dal.DoctorDao"/>
+    <fullyQualifiedTypeName name="Medicare.model.Doctor"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="Medicare.model.Insurance"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="Medicare.dal.PatientDao"/>
+    <fullyQualifiedTypeName name="Medicare.model.Patient"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="Medicare.dal.ReferralDao"/>
+    <fullyQualifiedTypeName name="Medicare.model.Referral"/>
+</qualifiedTypeNameHistroy>
